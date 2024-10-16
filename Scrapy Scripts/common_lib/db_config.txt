@@ -1,0 +1,8 @@
+# Add your database configuration here
+{
+   "host": "",
+   "user": "",
+   "passwd": "",
+   "database": "",
+   "port": "",
+}
